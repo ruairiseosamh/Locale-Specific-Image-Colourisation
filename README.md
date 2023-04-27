@@ -1,1 +1,1 @@
-# [Locale-Specific-Image-Colourisation]
+# Locale-Specific-Image-Colourisation
